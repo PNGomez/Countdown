@@ -1,27 +1,34 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+##PATRICK GOMEZ
+	*patrickgomez.me
+	*aspectivesolutions.me
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+## Educational Background
+	
+	##Xavier University - Ateneo de Cagayan
+	  Bachelor of Science in Computer Science
+	  Class 2017
 
-## Getting Started
+## Projects
+	
+	##OBO Record System
+	  Office of the City Building Official
+	  Cagayan de Oro Local Gov't Unit 
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* Fork the repo
+	##Thesis: A web based Application on Air Quality using Predictive Analysis
+	  Xavier University - Ateneo de Cagayan
+	  College of Computer Studies
 
-## Bugs and Issues
+	##Aspective Solutions
+	  Web Designer and developer
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
+## Employment
+	
+	##Logicbase Interactive,LLC
+	  Web Developer
+	  Max Suniel Carmen Cagayan de Oro City
 
-## Creator
+	##Upwork.com
+	  Professional Logo and Graphic Designer
+	  Freelancer
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+&copy patrickgomez.me
